@@ -29,7 +29,6 @@ ssh root@[your-server-ip]
 mkdir -p /usr/local/trojan
 cd /usr/local/trojan
 wget -N --no-check-certificate -q -O trojan\_mult.sh "https://raw.githubusercontent.com/Jimmy-Nie/trojan_mult/main/trojan_mult.sh"  #下载安装脚本
-#
 ```
 
 ###4) 根据提示进行安装
